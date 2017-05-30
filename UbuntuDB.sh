@@ -1,0 +1,1 @@
+echo "HHHHH" > ~/t.txt
